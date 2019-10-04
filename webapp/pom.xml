@@ -12,7 +12,7 @@
 
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
-  <name>Thanks Dell</name>
+  <name>Thanks Dell laptop</name>
   <description>Webapp.</description>
 
   <build>
